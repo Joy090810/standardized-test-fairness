@@ -1,5 +1,34 @@
 #conceptual framework
 
 ##key research concepts
--standardized test: Exams, application or preparation processes that have strict criteria and are influential to student's future opportunities to acquire further education.
--support structure: supports students receive from different sources including formal school, family, shadow education(Zwier D, Geven. S & can de werfhorst H.G), peer/community and digital/AI that help students prepare for standardized test.
+-Standardized test: 
+  Exams, application or preparation processes that have strict criteria and are influential to student's future opportunities to acquire further education.
+-Support structure: 
+  Supports students receive from different sources including formal school, family, shadow education(Zwier D, Geven. S & can de werfhorst H.G), peer/community and digital/AI that help students prepare for standardized test.
+-Invisible learning labor: 
+  The unacknowledged cognitive, emotional and strategic labor layered outside of formal grades or application outcomes, which students vvoluntarily undertake to compensate for institutional shortcomings and systematic feedback benefits.
+
+##support structure detailed
+-sources & unique variables:
+ -formal school(SCH):
+   General coverage(SCH_COV)
+   Institutional continuity(SCH_CONT)
+   Institutional transparency(SCH_TRANS)
+   Accountability(SCH_ACC)
+ -family(FAM)
+   Economic affordability(FAM_ECO)
+   Educational and cultural capital(FAM_CUL)
+   Resource mobilization capability(FAM_MOB)
+   Autonomy support(FAM_AUT)
+ -shadow education(SHD)
+   Affordability(SHD_AFF)
+   Personalization(SHD_PERS)
+   Reliability(SHD_REL)
+   Intensity(SHD_HRS)
+ -peer/community(PEER)
+   network size(PEER_SIZE)
+   network diversity(PEER_DIV)
+   stability(PEER_STA)
+   reciprocity(PEER_RECIP)
+ -digital/AI(DIG)
+   accessibility(DIG_ACCESS)
