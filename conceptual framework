@@ -77,6 +77,7 @@
  | ADM               |               |        |                  |                |            |
  | EMO               |               |        |                  |                |            |
  *Each cell represents the extent to which student i receives a particular support function from a particular source.
+ *Detailed coding anchors are provided in codebook.
 
 ##invisible learning labor detailed
  -information navigation(Ⅰ)
@@ -86,3 +87,12 @@
  -mental pressure(Ⅱ)
  -self-proving(Ⅲ)
  *Invisible learning labor is distinguished from direct learning effort.
+
+##types of support system
+ | Formal Support | alternative support | Conceptual Type      |
+ | -------------- | ------------------- | -------------------- |
+ | High           | Low                 | Public provision     |
+ | Low            | High                | Market substitution  |
+ | High           | High                | Cumulative advantage |
+ | Low            | Low                 | Support gap          |
+ *Similar overall levels of functional support may compose of structurally different sources.
