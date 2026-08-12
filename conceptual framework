@@ -21,7 +21,8 @@
  -The unacknowledged cognitive, emotional and strategic labor layered outside of formal grades or application outcomes, which students vvoluntarily undertake to compensate for institutional shortcomings and systematic feedback benefits.
 
 ##logic chain
-background/context → accessible formal support → formal support gap → search for alternative support(invisible learning laborⅠ) → digital/peer/shawdow education → inequal quality(dependent on compensatery capacity) → remaining support gap 
+ *Arrows represent hypothesized conceptual relationships rather than established causal effects.
+ background/context → accessible formal support → formal support gap → search for alternative support(invisible learning laborⅠ) → digital/peer/shawdow education → inequal quality(dependent on compensatery capacity) → remaining support gap 
                                                           ↓                                                                                                                                                                        ↓
                                                           ------------------------------------------------------personal compensation(invisible learning laborⅡ)-------------------------------------------------------------------
                                                                                                                           ↓                            ↓
@@ -55,3 +56,23 @@ background/context → accessible formal support → formal support gap → sear
    reciprocity(PEER_RECIP)
  -digital/AI(DIG)
    accessibility(DIG_ACCESS)
+###support functions:
+ -informative support(INF)
+ -pathway planning(PLN)
+ -content-based instruction(INS)
+ -dignosis & feedback(FBK)
+ -resource filtering(RES)
+ -Administrative & Logistics Support(ADM)
+ -emotional support(EMO)
+###support matrix
+ -$R_i$ = [support functions ✖ support sources]
+ | Support Function  | Formal School | Family | Shadow Education | Peer/Community | Digital/AI |
+ | ----------------- | ------------: | -----: | ---------------: | -------------: | ---------: |
+ | INF               |               |        |                  |                |            |
+ | PLN               |               |        |                  |                |            |
+ | INS               |               |        |                  |                |            |
+ | FBK               |               |        |                  |                |            |
+ | RES               |               |        |                  |                |            |
+ | ADM               |               |        |                  |                |            |
+ | EMO               |               |        |                  |                |            |
+ *Each cell represents the extent to which student i receives a particular support function from a particular source.
