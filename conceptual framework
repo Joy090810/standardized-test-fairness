@@ -29,7 +29,7 @@
                                                                                                                  time/cognitive burden           mental burden
                                                                                                                           ↓                            ↓
                                                                                                                           --- direct learning process---
-                                                                                                                                        ↓
+                                                                                                                                        ↓(learning labor Ⅲ)
                                                                                                                              standardized test outcomes
 
 ##support structure detailed
@@ -44,6 +44,7 @@
    Educational and cultural capital(FAM_CUL)
    Resource mobilization capability(FAM_MOB)
    Autonomy support(FAM_AUT)
+  *support level ≠ cost of obtaining support
  -shadow education(SHD)
    Affordability(SHD_AFF)
    Personalization(SHD_PERS)
@@ -76,3 +77,12 @@
  | ADM               |               |        |                  |                |            |
  | EMO               |               |        |                  |                |            |
  *Each cell represents the extent to which student i receives a particular support function from a particular source.
+
+##invisible learning labor detailed
+ -information navigation(Ⅰ)
+ -pathway planning(Ⅰ)
+ -resource evaluation(Ⅱ)
+ -task balance(Ⅱ)
+ -mental pressure(Ⅱ)
+ -self-proving(Ⅲ)
+ *Invisible learning labor is distinguished from direct learning effort.
