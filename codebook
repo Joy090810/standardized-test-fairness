@@ -1,1 +1,27 @@
+#codebook
 
+##coding unit
+ -coding is based on the materials reported by participants. Scores represent the support participants reported to have actually acquired rather than the theoratically availiable support.
+
+##support score standard
+###| Score | Coding meaning                                                                                                             |
+   | ----- | -------------------------------------------------------------------------------------------------------------------------- |
+   | 0     | No support was actually received from this source for this function.                                                       |
+   | 1     | Minimal, occasional, or clearly insufficient support; most of the need remained with the student.                          |
+   | 2     | Partial or inconsistent support; some needs were met but important gaps remained.                                          |
+   | 3     | Stable and effective support that met most of the student's needs, although some additional work was still required.       |
+   | 4     | Comprehensive, timely, and effective support that met nearly all of the need with little additional compensation required. |
+###other cases:
+ -not reported(NR)
+ -unclear(UNC)
+ -not applicable(NAPP)
+ -not observable(NOV)
+
+##evidence quality standard:
+ | Code   | Evidence Quality                     | Definition                                                                                                                                         |
+ | ------ | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+ | E3     | Strong evidence                      | The interpretation is supported by multiple consistent events **or by one highly detailed, internally consistent process with little ambiguity.**  |
+ | E2     | Moderate evidence                    | At least one specific event clearly supports the interpretation, but the process is less complete, less detailed, or not independently reinforced. |
+ | E1     | Limited evidence                     | The interpretation is based mainly on a general self-report, broad judgment, or short example with limited process detail.                         |
+ | E0 / NA| Insufficient or unavailable evidence | The issue was not asked about, the transcript is unclear, or the available material is too weak to support a reliable interpretation.              |
+ 
