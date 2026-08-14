@@ -20,7 +20,7 @@
 ##evidence quality standard:
  | Code   | Evidence Quality                     | Definition                                                                                                                                         |
  | ------ | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
- | E3     | Strong evidence                      | The interpretation is supported by multiple consistent events **or by one highly detailed, internally consistent process with little ambiguity.**  |
+ | E3     | Strong evidence                      | The interpretation is supported by multiple consistent events or by one highly detailed, internally consistent process with little ambiguity.      |
  | E2     | Moderate evidence                    | At least one specific event clearly supports the interpretation, but the process is less complete, less detailed, or not independently reinforced. |
  | E1     | Limited evidence                     | The interpretation is based mainly on a general self-report, broad judgment, or short example with limited process detail.                         |
  | E0 / NA| Insufficient or unavailable evidence | The issue was not asked about, the transcript is unclear, or the available material is too weak to support a reliable interpretation.              |
