@@ -25,3 +25,16 @@
  | E1     | Limited evidence                     | The interpretation is based mainly on a general self-report, broad judgment, or short example with limited process detail.                         |
  | E0 / NA| Insufficient or unavailable evidence | The issue was not asked about, the transcript is unclear, or the available material is too weak to support a reliable interpretation.              |
  
+##support functions:
+###INF: 
+ -definition: Support that provides relevant information about test requirements, procedures, deadlines, etc.
+ -include & exclude: Include test dates, test policies, preperation resources, application requirements; exclude decision making, and teaching spcific test content.
+ -example: Offering the SAT requirements of a student's dream school and the deadline for registering SAT.
+###PLN:
+ -definition: Support that offers students study/application plans, ones that helps students navigate their study and make decisions about future plans.
+ -include & exclude: Include advice on exam times and types, priorities of different tasks and the combination of application materials.
+ -example: Suggesting the student to take AP before taking SAT; and help them decide on the AP subjects they're going to take.
+###INS：
+ -definition: support that help students learn the required knowledges directly.
+ -include & exclude: include giving courses and homework; excluding lectures and general advice on future study.
+ -example: A teacher giving the student AP classes on the subject they want to take.
