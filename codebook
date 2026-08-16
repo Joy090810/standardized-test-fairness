@@ -38,3 +38,19 @@
  -definition: support that help students learn the required knowledges directly.
  -include & exclude: include giving courses and homework; excluding lectures and general advice on future study.
  -example: A teacher giving the student AP classes on the subject they want to take.
+###FBK
+ -definition: support including diagnosising student's mistakes and weakenesses, and giving suggestions on improvement.
+ -include & exclude: include giving instructions on the types of error and non-knowledge-based errors; exclude explaining misconcepts.
+ -example: teacher pointing out that the arguement in the essay is not specific enough; after the mock exam, the student was informed which types of questions were their weakest areas.
+###RES
+ -definition: support given to classify the most valuable resource.
+ -include & exclude: include giving advice on which prep-book to use and which teacher to have classes with; exclude giving resources without Evaluation and screening
+ -example: Teachers recommend supplementary study materials best suited; parents help vfind reliable tutors.
+###ADM:
+ -definition: the support given to help with actual work that's not related to the actual learning process.
+ -include & exclude: include helping students register for exams; exclude giving the link to the registration page.
+ -example: Registering students for exams; paying exam or make-up class fees; transporting students to and from test centers.
+###EMO:
+ -definition: support given to encourage students or reduce stress.
+ -include & exclude: having conversations to help regain confidence; exclude helping establish future study plans after a bad result.
+ -example: teachers encouraging students to keep trying; friends providing company during exam preparation.
