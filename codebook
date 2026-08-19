@@ -79,8 +79,31 @@
 ###DIG
  -DIG_ACCESS: whether stable equipment, a stable network connection, and consistent availability is accessible.
 
-##invisible learning labor:
-###information navigation(Ⅰ): 
+##invisible learning labor
+###information navigation(ILL_INF):
+ -definition: Work undertaken by the student to locate, collect, clarify, or connect information needed to understand a standardized-test or preparation process。
+ -include & exclude: include student independently checking exam requirements/university requirements/deadlines/exam policies, searching the same information on multiple websites, piece together the complete rules from various sources, etc.; exclude deciding which exam to take first once the requirements are known, and comparing which websites or instructors are more credible.
+ -examples: As the school did not provide the relevant information, student checked the university's official website for requirements.; student repeatedly asked the teacher about the GPA calculation rules and verified the information online; student opened the official website link provided by the AI ​​to double-check.
+###Pathway planning(ILL_PLN):
+ -definition: Work undertaken by the student to design the sequence, timing, priorities, or overall route of preparation when these decisions are not fully provided by an external support system.
+ -include & exclude: include student deciding the priorities of defferent test types, the combination of courses, and creating long-term study plan, etc.; exclude short-term allocation and finding information.
+ -examples: student reorganizes their schedule—balancing school, self-study , and tutoring after determining that school-based study sessions offer little value; deciding the order of preparation for the two exams, as there is insufficient time to prepare for both simultaneously.
+###Resource evaluation(ILL_RES):
+ -definition: Work undertaken by the student to compare, judge, select, test, or verify the usefulness, reliability, or personal fit of learning resources or support providers.
+ -include & exclude: include students comparing different tutors/online courses, evaluate whether a supplementary workbook is worth using, assess the reliability of AI-generated answers. and test the actual effectiveness of a resource; exclude comparison and decision made by others.
+ -examples: Student compares three online tutor's video and decide that the first one is the best fit.
+###Task Balancing and Support Coordination(ILL_TASK):
+ -definition: Work undertaken by the student to allocate time and attention across competing tasks or to coordinate multiple support sources during preparation.
+ -include & exclude: include prioritizing different subjects and allocating limited time and energy，coordinating between school teachers and tutors, and managing overlapping progress across multiple resources; exlude prioritizing long-term focus.
+ -examples: Decide whether to solve a problem independently, ask a school teacher, or consult a private tutor; determine which problems to tackle immediately and which to set aside for the time being; identify overlaps between self-study and tutoring, and coordinate the pace of both accordingly.
+###Emotional regulation(ILL_EMO)
+ -definition: Work undertaken by the student to manage emotional strain that arises from uncertainty, support gaps, competing demands, or the need to manage the preparation system independently.
+ -include & exclude: include process failure internally, Reframe the exam experience cognitively, maintain study momentum in the absence of external reassurance and manage anxiety ; exclude having negative emotions.
+ -examples: Student feel stressed before an important exam but managed to keeping studying under that pressure.
+###Self-vertification(ILL_VER)
+ -definition: Work undertaken by the student to independently check whether learning, feedback, or external support has actually produced correct understanding or sufficient mastery.
+ -include & exclude: include retaking practice questions after completing online lessons, assessing whether the tutoring actually resolved the issues, and self-diagnosing before having the teacher review your diagnosis.; exclude identifying the reliability of a resource.
+ -examples: doing statistic problems after taking an online session on the topic to make sure one really understood the concepts.
 
 ##evidence rules:
 -E3 = specific process supported by multiple events
