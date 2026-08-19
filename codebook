@@ -54,3 +54,27 @@
  -definition: support given to encourage students or reduce stress.
  -include & exclude: having conversations to help regain confidence; exclude helping establish future study plans after a bad result.
  -example: teachers encouraging students to keep trying; friends providing company during exam preparation.
+
+##unique variables:
+###SCH
+ -SCH_COV: Whether support is provided for all students with need.
+ -SCH_CONT: To which extend is the support stable and effective in a long term, and independent of specific individuals.
+ -SCH_TRANS: Whether students are aware of school services and ways access relevant resources
+ -SCH_ACC: Whether there is a specific feedback mechanism.
+###FAM
+ -FAM_ECO: The willingness and ability to cover the costs for teaching materials, examinations, training, equipment, and transportation?
+ -FAM_CUL: Whether parents understand the examination system, etc.
+ -FAM_MOB: The family's ability to quickly find teachers, institutions, or other social connections.
+ -FAM_AUT: Whether family respect student's perosnal choice.
+###SHD
+ -SHD_AFF: Whether the family can sustain the purchase of services.
+ -SHD_PERS: To what extend id the service adjusted based on the student's proficiency level, goals, and errors. (0-No personalization whatsoever; 1-No personalization whatsoever; 2-Includes some targeted adjustments; 3-Frequently adjusts based on the individual's background, goals, or errors; 4-Continuously and dynamically adjusts the entire learning plan based on individual performance)
+ -SHD_REL: Whether the instructors and materials are accurate and professional.
+ -SHD_HRS: The average duration in hours per week of the service. (demonstrated by Raw values)
+###PEER
+ -PEER_SIZE: The number of people available to provide assistance or share resources. (demonstrated by Raw values)
+ -PEER_DIV: The width of information sources.
+ -PEER_STA: Whether the supportive relationship is stable in long-terms.
+ -PEER_RECIP: Whether it is possible to receive assistance and exchange knowledge and resources.
+###DIG
+ -DIG_ACCESS: whether stable equipment, a stable network connection, and consistent availability is accessible.
