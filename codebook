@@ -78,3 +78,13 @@
  -PEER_RECIP: Whether it is possible to receive assistance and exchange knowledge and resources.
 ###DIG
  -DIG_ACCESS: whether stable equipment, a stable network connection, and consistent availability is accessible.
+
+##invisible learning labor:
+###information navigation(Ⅰ): 
+
+##evidence rules:
+-E3 = specific process supported by multiple events
+-E2 = complete specific event
+-E1 = general self-report / subjective claim
+-E0/NA = insufficient evidence
+-NYO = not yet observable
