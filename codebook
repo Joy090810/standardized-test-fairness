@@ -80,6 +80,14 @@
  -DIG_ACCESS: whether stable equipment, a stable network connection, and consistent availability is accessible.
 
 ##invisible learning labor
+###invisible learning labor score standard:
+| Score | Level               | Coding Standard                                                                                                                                                                                                |
+| ----- | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   0   | No meaningful labor | The student did not need to undertake meaningful work in this area because the function was effectively handled by others, or no meaningful student labor was required.                                        |
+|   1   | Minor labor         | The student undertook a small or occasional part of the function. The process was simple and required little additional time, judgment, or coordination.                                                       |
+|   2   | Moderate labor      | The student regularly undertook part of the function, but external support still carried a meaningful share of the responsibility.                                                                             |
+|   3   | Substantial labor   | The student carried most of the function and repeatedly engaged in searching, planning, evaluating, coordinating, or verifying, with noticeable time or cognitive demands.                                     |
+|   4   | Extensive labor     | The student was the main or nearly sole manager of the function across the preparation process. The labor was sustained, complex, and repeated, and required substantial time, attention, or cognitive effort. |
 ###information navigation(ILL_INF):
  -definition: Work undertaken by the student to locate, collect, clarify, or connect information needed to understand a standardized-test or preparation process。
  -include & exclude: include student independently checking exam requirements/university requirements/deadlines/exam policies, searching the same information on multiple websites, piece together the complete rules from various sources, etc.; exclude deciding which exam to take first once the requirements are known, and comparing which websites or instructors are more credible.
