@@ -1,1 +1,407 @@
-
+case_id,analysis_group,category,variable,value,evidence_quality
+Case_A,core,Support Matrix,SCH_INF,3,E2
+Case_B,core,Support Matrix,SCH_INF,4,E3
+Case_C,boundary,Support Matrix,SCH_INF,1,E3
+Case_D,core,Support Matrix,SCH_INF,2,E3
+Case_E,core,Support Matrix,SCH_INF,0,E3
+Case_F,core,Support Matrix,SCH_INF,4,E3
+Case_G,core,Support Matrix,SCH_INF,3,E2
+Case_A,core,Support Matrix,SCH_PLN,1,E2
+Case_B,core,Support Matrix,SCH_PLN,3,E3
+Case_C,boundary,Support Matrix,SCH_PLN,0,E3
+Case_D,core,Support Matrix,SCH_PLN,2,E3
+Case_E,core,Support Matrix,SCH_PLN,0,E3
+Case_F,core,Support Matrix,SCH_PLN,3,E2
+Case_G,core,Support Matrix,SCH_PLN,3,E3
+Case_A,core,Support Matrix,SCH_INS,3,E3
+Case_B,core,Support Matrix,SCH_INS,4,E3
+Case_C,boundary,Support Matrix,SCH_INS,0,E3
+Case_D,core,Support Matrix,SCH_INS,2,E3
+Case_E,core,Support Matrix,SCH_INS,1,E3
+Case_F,core,Support Matrix,SCH_INS,4,E3
+Case_G,core,Support Matrix,SCH_INS,3,E3
+Case_A,core,Support Matrix,SCH_FBK,3,E2
+Case_B,core,Support Matrix,SCH_FBK,4,E3
+Case_C,boundary,Support Matrix,SCH_FBK,1,E1
+Case_D,core,Support Matrix,SCH_FBK,1,E1
+Case_E,core,Support Matrix,SCH_FBK,0,E3
+Case_F,core,Support Matrix,SCH_FBK,4,E3
+Case_G,core,Support Matrix,SCH_FBK,3,E3
+Case_A,core,Support Matrix,SCH_RES,1,E2
+Case_B,core,Support Matrix,SCH_RES,4,E2
+Case_C,boundary,Support Matrix,SCH_RES,1,E1
+Case_D,core,Support Matrix,SCH_RES,1,E1
+Case_E,core,Support Matrix,SCH_RES,0,E3
+Case_F,core,Support Matrix,SCH_RES,3,E3
+Case_G,core,Support Matrix,SCH_RES,3,E3
+Case_A,core,Support Matrix,SCH_ADM,NR,
+Case_B,core,Support Matrix,SCH_ADM,NR,
+Case_C,boundary,Support Matrix,SCH_ADM,NR,
+Case_D,core,Support Matrix,SCH_ADM,3,E3
+Case_E,core,Support Matrix,SCH_ADM,0,E3
+Case_F,core,Support Matrix,SCH_ADM,NR,
+Case_G,core,Support Matrix,SCH_ADM,3,E2
+Case_A,core,Support Matrix,SCH_EMO,1,E3
+Case_B,core,Support Matrix,SCH_EMO,2,E3
+Case_C,boundary,Support Matrix,SCH_EMO,NR,
+Case_D,core,Support Matrix,SCH_EMO,1,E2
+Case_E,core,Support Matrix,SCH_EMO,0,E2
+Case_F,core,Support Matrix,SCH_EMO,NR,
+Case_G,core,Support Matrix,SCH_EMO,NR,
+Case_A,core,Support Matrix,FAM_INF,1,E1
+Case_B,core,Support Matrix,FAM_INF,2,E3
+Case_C,boundary,Support Matrix,FAM_INF,0,E1
+Case_D,core,Support Matrix,FAM_INF,1,E1
+Case_E,core,Support Matrix,FAM_INF,UNC,
+Case_F,core,Support Matrix,FAM_INF,3,E3
+Case_G,core,Support Matrix,FAM_INF,2,E2
+Case_A,core,Support Matrix,FAM_PLN,1,E2
+Case_B,core,Support Matrix,FAM_PLN,2,E3
+Case_C,boundary,Support Matrix,FAM_PLN,0,E1
+Case_D,core,Support Matrix,FAM_PLN,1,E1
+Case_E,core,Support Matrix,FAM_PLN,0,E3
+Case_F,core,Support Matrix,FAM_PLN,2,E2
+Case_G,core,Support Matrix,FAM_PLN,1,E1
+Case_A,core,Support Matrix,FAM_INS,NR,
+Case_B,core,Support Matrix,FAM_INS,NR,
+Case_C,boundary,Support Matrix,FAM_INS,NR,
+Case_D,core,Support Matrix,FAM_INS,NR,
+Case_E,core,Support Matrix,FAM_INS,NR,
+Case_F,core,Support Matrix,FAM_INS,NR,
+Case_G,core,Support Matrix,FAM_INS,NR,
+Case_A,core,Support Matrix,FAM_FBK,1,E2
+Case_B,core,Support Matrix,FAM_FBK,UNC,
+Case_C,boundary,Support Matrix,FAM_FBK,NR,
+Case_D,core,Support Matrix,FAM_FBK,NR,
+Case_E,core,Support Matrix,FAM_FBK,NR,
+Case_F,core,Support Matrix,FAM_FBK,NR,
+Case_G,core,Support Matrix,FAM_FBK,NR,
+Case_A,core,Support Matrix,FAM_RES,NR,
+Case_B,core,Support Matrix,FAM_RES,NR,
+Case_C,boundary,Support Matrix,FAM_RES,NR,
+Case_D,core,Support Matrix,FAM_RES,NR,
+Case_E,core,Support Matrix,FAM_RES,NR,
+Case_F,core,Support Matrix,FAM_RES,1,E2
+Case_G,core,Support Matrix,FAM_RES,NR,
+Case_A,core,Support Matrix,FAM_ADM,UNC,
+Case_B,core,Support Matrix,FAM_ADM,NR,
+Case_C,boundary,Support Matrix,FAM_ADM,NR,
+Case_D,core,Support Matrix,FAM_ADM,2,E1
+Case_E,core,Support Matrix,FAM_ADM,NR,
+Case_F,core,Support Matrix,FAM_ADM,3,E2
+Case_G,core,Support Matrix,FAM_ADM,4,E3
+Case_A,core,Support Matrix,FAM_EMO,1,E2
+Case_B,core,Support Matrix,FAM_EMO,3,E2
+Case_C,boundary,Support Matrix,FAM_EMO,UNC,
+Case_D,core,Support Matrix,FAM_EMO,UNC,
+Case_E,core,Support Matrix,FAM_EMO,0,E2
+Case_F,core,Support Matrix,FAM_EMO,NR,
+Case_G,core,Support Matrix,FAM_EMO,3,E1
+Case_A,core,Support Matrix,SHD_INF,0,E3
+Case_B,core,Support Matrix,SHD_INF,4,E2
+Case_C,boundary,Support Matrix,SHD_INF,0,E3
+Case_D,core,Support Matrix,SHD_INF,3,E1
+Case_E,core,Support Matrix,SHD_INF,0,E3
+Case_F,core,Support Matrix,SHD_INF,2,E2
+Case_G,core,Support Matrix,SHD_INF,3,E3
+Case_A,core,Support Matrix,SHD_PLN,0,E3
+Case_B,core,Support Matrix,SHD_PLN,NR,
+Case_C,boundary,Support Matrix,SHD_PLN,0,E3
+Case_D,core,Support Matrix,SHD_PLN,NR,
+Case_E,core,Support Matrix,SHD_PLN,0,E3
+Case_F,core,Support Matrix,SHD_PLN,0,E1
+Case_G,core,Support Matrix,SHD_PLN,2,E3
+Case_A,core,Support Matrix,SHD_INS,0,E3
+Case_B,core,Support Matrix,SHD_INS,4,E3
+Case_C,boundary,Support Matrix,SHD_INS,0,E3
+Case_D,core,Support Matrix,SHD_INS,3,E1
+Case_E,core,Support Matrix,SHD_INS,0,E3
+Case_F,core,Support Matrix,SHD_INS,3,E3
+Case_G,core,Support Matrix,SHD_INS,3,E3
+Case_A,core,Support Matrix,SHD_FBK,0,E3
+Case_B,core,Support Matrix,SHD_FBK,4,E2
+Case_C,boundary,Support Matrix,SHD_FBK,0,E3
+Case_D,core,Support Matrix,SHD_FBK,2,E2
+Case_E,core,Support Matrix,SHD_FBK,0,E3
+Case_F,core,Support Matrix,SHD_FBK,4,E3
+Case_G,core,Support Matrix,SHD_FBK,3,E3
+Case_A,core,Support Matrix,SHD_RES,0,E3
+Case_B,core,Support Matrix,SHD_RES,NR,
+Case_C,boundary,Support Matrix,SHD_RES,0,E3
+Case_D,core,Support Matrix,SHD_RES,NR,
+Case_E,core,Support Matrix,SHD_RES,0,E3
+Case_F,core,Support Matrix,SHD_RES,3,E2
+Case_G,core,Support Matrix,SHD_RES,3,E3
+Case_A,core,Support Matrix,SHD_ADM,0,E3
+Case_B,core,Support Matrix,SHD_ADM,NR,
+Case_C,boundary,Support Matrix,SHD_ADM,0,E3
+Case_D,core,Support Matrix,SHD_ADM,NR,
+Case_E,core,Support Matrix,SHD_ADM,0,E3
+Case_F,core,Support Matrix,SHD_ADM,NR,
+Case_G,core,Support Matrix,SHD_ADM,NR,
+Case_A,core,Support Matrix,SHD_EMO,0,E3
+Case_B,core,Support Matrix,SHD_EMO,NR,
+Case_C,boundary,Support Matrix,SHD_EMO,0,E3
+Case_D,core,Support Matrix,SHD_EMO,NR,
+Case_E,core,Support Matrix,SHD_EMO,0,E3
+Case_F,core,Support Matrix,SHD_EMO,NR,
+Case_G,core,Support Matrix,SHD_EMO,NR,
+Case_A,core,Support Matrix,PEER_INF,NR,
+Case_B,core,Support Matrix,PEER_INF,NR,
+Case_C,boundary,Support Matrix,PEER_INF,NR,
+Case_D,core,Support Matrix,PEER_INF,2,E2
+Case_E,core,Support Matrix,PEER_INF,NR,
+Case_F,core,Support Matrix,PEER_INF,2,E2
+Case_G,core,Support Matrix,PEER_INF,NR,
+Case_A,core,Support Matrix,PEER_PLN,NR,
+Case_B,core,Support Matrix,PEER_PLN,NR,
+Case_C,boundary,Support Matrix,PEER_PLN,NR,
+Case_D,core,Support Matrix,PEER_PLN,NR,
+Case_E,core,Support Matrix,PEER_PLN,NR,
+Case_F,core,Support Matrix,PEER_PLN,2,E2
+Case_G,core,Support Matrix,PEER_PLN,NR,
+Case_A,core,Support Matrix,PEER_INS,3,E3
+Case_B,core,Support Matrix,PEER_INS,NR,
+Case_C,boundary,Support Matrix,PEER_INS,NR,
+Case_D,core,Support Matrix,PEER_INS,NR,
+Case_E,core,Support Matrix,PEER_INS,NR,
+Case_F,core,Support Matrix,PEER_INS,NR,
+Case_G,core,Support Matrix,PEER_INS,1,E1
+Case_A,core,Support Matrix,PEER_FBK,UNC,
+Case_B,core,Support Matrix,PEER_FBK,NR,
+Case_C,boundary,Support Matrix,PEER_FBK,NR,
+Case_D,core,Support Matrix,PEER_FBK,NR,
+Case_E,core,Support Matrix,PEER_FBK,NR,
+Case_F,core,Support Matrix,PEER_FBK,NR,
+Case_G,core,Support Matrix,PEER_FBK,NR,
+Case_A,core,Support Matrix,PEER_RES,NR,
+Case_B,core,Support Matrix,PEER_RES,NR,
+Case_C,boundary,Support Matrix,PEER_RES,NR,
+Case_D,core,Support Matrix,PEER_RES,NR,
+Case_E,core,Support Matrix,PEER_RES,NR,
+Case_F,core,Support Matrix,PEER_RES,3,E2
+Case_G,core,Support Matrix,PEER_RES,NR,
+Case_A,core,Support Matrix,PEER_ADM,NR,
+Case_B,core,Support Matrix,PEER_ADM,NR,
+Case_C,boundary,Support Matrix,PEER_ADM,NR,
+Case_D,core,Support Matrix,PEER_ADM,NR,
+Case_E,core,Support Matrix,PEER_ADM,NR,
+Case_F,core,Support Matrix,PEER_ADM,NR,
+Case_G,core,Support Matrix,PEER_ADM,NR,
+Case_A,core,Support Matrix,PEER_EMO,NR,
+Case_B,core,Support Matrix,PEER_EMO,3,E3
+Case_C,boundary,Support Matrix,PEER_EMO,NR,
+Case_D,core,Support Matrix,PEER_EMO,NR,
+Case_E,core,Support Matrix,PEER_EMO,NR,
+Case_F,core,Support Matrix,PEER_EMO,NR,
+Case_G,core,Support Matrix,PEER_EMO,NR,
+Case_A,core,Support Matrix,DIG_INF,2,E2
+Case_B,core,Support Matrix,DIG_INF,NR,
+Case_C,boundary,Support Matrix,DIG_INF,3,E3
+Case_D,core,Support Matrix,DIG_INF,3,E3
+Case_E,core,Support Matrix,DIG_INF,2,E2
+Case_F,core,Support Matrix,DIG_INF,NR,
+Case_G,core,Support Matrix,DIG_INF,3,E3
+Case_A,core,Support Matrix,DIG_PLN,NR,
+Case_B,core,Support Matrix,DIG_PLN,NR,
+Case_C,boundary,Support Matrix,DIG_PLN,2,E1
+Case_D,core,Support Matrix,DIG_PLN,UNC,
+Case_E,core,Support Matrix,DIG_PLN,NR,
+Case_F,core,Support Matrix,DIG_PLN,NR,
+Case_G,core,Support Matrix,DIG_PLN,1,E1
+Case_A,core,Support Matrix,DIG_INS,2,E2
+Case_B,core,Support Matrix,DIG_INS,NR,
+Case_C,boundary,Support Matrix,DIG_INS,2,E1
+Case_D,core,Support Matrix,DIG_INS,2,E1
+Case_E,core,Support Matrix,DIG_INS,2,E2
+Case_F,core,Support Matrix,DIG_INS,NR,
+Case_G,core,Support Matrix,DIG_INS,3,E3
+Case_A,core,Support Matrix,DIG_FBK,NR,
+Case_B,core,Support Matrix,DIG_FBK,NR,
+Case_C,boundary,Support Matrix,DIG_FBK,3,E2
+Case_D,core,Support Matrix,DIG_FBK,NR,
+Case_E,core,Support Matrix,DIG_FBK,UNC,
+Case_F,core,Support Matrix,DIG_FBK,NR,
+Case_G,core,Support Matrix,DIG_FBK,1,E1
+Case_A,core,Support Matrix,DIG_RES,NR,
+Case_B,core,Support Matrix,DIG_RES,NR,
+Case_C,boundary,Support Matrix,DIG_RES,2,E2
+Case_D,core,Support Matrix,DIG_RES,1,E1
+Case_E,core,Support Matrix,DIG_RES,NR,
+Case_F,core,Support Matrix,DIG_RES,NR,
+Case_G,core,Support Matrix,DIG_RES,0,E2
+Case_A,core,Support Matrix,DIG_ADM,NR,
+Case_B,core,Support Matrix,DIG_ADM,NR,
+Case_C,boundary,Support Matrix,DIG_ADM,NR,
+Case_D,core,Support Matrix,DIG_ADM,NR,
+Case_E,core,Support Matrix,DIG_ADM,NR,
+Case_F,core,Support Matrix,DIG_ADM,NR,
+Case_G,core,Support Matrix,DIG_ADM,NR,
+Case_A,core,Support Matrix,DIG_EMO,NR,
+Case_B,core,Support Matrix,DIG_EMO,NR,
+Case_C,boundary,Support Matrix,DIG_EMO,NR,
+Case_D,core,Support Matrix,DIG_EMO,NR,
+Case_E,core,Support Matrix,DIG_EMO,NR,
+Case_F,core,Support Matrix,DIG_EMO,NR,
+Case_G,core,Support Matrix,DIG_EMO,NR,
+Case_A,core,Source-Specific,SCH_COV,3,E3
+Case_B,core,Source-Specific,SCH_COV,4,E3
+Case_C,boundary,Source-Specific,SCH_COV,1,E1
+Case_D,core,Source-Specific,SCH_COV,2,E3
+Case_E,core,Source-Specific,SCH_COV,0,E3
+Case_F,core,Source-Specific,SCH_COV,4,E3
+Case_G,core,Source-Specific,SCH_COV,3,E3
+Case_A,core,Source-Specific,SCH_CONT,3,E1
+Case_B,core,Source-Specific,SCH_CONT,4,E3
+Case_C,boundary,Source-Specific,SCH_CONT,0,E3
+Case_D,core,Source-Specific,SCH_CONT,1,E3
+Case_E,core,Source-Specific,SCH_CONT,0,E3
+Case_F,core,Source-Specific,SCH_CONT,4,E3
+Case_G,core,Source-Specific,SCH_CONT,4,E3
+Case_A,core,Source-Specific,SCH_TRANS,2,E2
+Case_B,core,Source-Specific,SCH_TRANS,NR,
+Case_C,boundary,Source-Specific,SCH_TRANS,NR,
+Case_D,core,Source-Specific,SCH_TRANS,1,E3
+Case_E,core,Source-Specific,SCH_TRANS,NR,
+Case_F,core,Source-Specific,SCH_TRANS,NR,
+Case_G,core,Source-Specific,SCH_TRANS,NR,
+Case_A,core,Source-Specific,SCH_ACC,NR,
+Case_B,core,Source-Specific,SCH_ACC,UNC,
+Case_C,boundary,Source-Specific,SCH_ACC,NR,
+Case_D,core,Source-Specific,SCH_ACC,1,E3
+Case_E,core,Source-Specific,SCH_ACC,NR,
+Case_F,core,Source-Specific,SCH_ACC,UNC,
+Case_G,core,Source-Specific,SCH_ACC,NR,
+Case_A,core,Source-Specific,FAM_ECO,UNC,
+Case_B,core,Source-Specific,FAM_ECO,3,E2
+Case_C,boundary,Source-Specific,FAM_ECO,NR,
+Case_D,core,Source-Specific,FAM_ECO,4,E2
+Case_E,core,Source-Specific,FAM_ECO,UNC,
+Case_F,core,Source-Specific,FAM_ECO,3,E2
+Case_G,core,Source-Specific,FAM_ECO,UNC,
+Case_A,core,Source-Specific,FAM_CUL,1,E3
+Case_B,core,Source-Specific,FAM_CUL,4,E3
+Case_C,boundary,Source-Specific,FAM_CUL,UNC,
+Case_D,core,Source-Specific,FAM_CUL,1,E3
+Case_E,core,Source-Specific,FAM_CUL,1,E1
+Case_F,core,Source-Specific,FAM_CUL,2,E3
+Case_G,core,Source-Specific,FAM_CUL,3,E2
+Case_A,core,Source-Specific,FAM_MOB,0,E2
+Case_B,core,Source-Specific,FAM_MOB,NR,
+Case_C,boundary,Source-Specific,FAM_MOB,1,E1
+Case_D,core,Source-Specific,FAM_MOB,1,E1
+Case_E,core,Source-Specific,FAM_MOB,NR,
+Case_F,core,Source-Specific,FAM_MOB,4,E3
+Case_G,core,Source-Specific,FAM_MOB,3,E3
+Case_A,core,Source-Specific,FAM_AUT,UNC,
+Case_B,core,Source-Specific,FAM_AUT,UNC,
+Case_C,boundary,Source-Specific,FAM_AUT,1,E2
+Case_D,core,Source-Specific,FAM_AUT,UNC,
+Case_E,core,Source-Specific,FAM_AUT,UNC,
+Case_F,core,Source-Specific,FAM_AUT,UNC,
+Case_G,core,Source-Specific,FAM_AUT,4,E3
+Case_A,core,Source-Specific,SHD_AFF,UNC,
+Case_B,core,Source-Specific,SHD_AFF,UNC,
+Case_C,boundary,Source-Specific,SHD_AFF,NAPP,
+Case_D,core,Source-Specific,SHD_AFF,UNC,
+Case_E,core,Source-Specific,SHD_AFF,NAPP,
+Case_F,core,Source-Specific,SHD_AFF,UNC,
+Case_G,core,Source-Specific,SHD_AFF,UNC,
+Case_A,core,Source-Specific,SHD_PERS,NAPP,
+Case_B,core,Source-Specific,SHD_PERS,4,E2
+Case_C,boundary,Source-Specific,SHD_PERS,NAPP,
+Case_D,core,Source-Specific,SHD_PERS,NR,
+Case_E,core,Source-Specific,SHD_PERS,NAPP,
+Case_F,core,Source-Specific,SHD_PERS,4,E3
+Case_G,core,Source-Specific,SHD_PERS,3,E3
+Case_A,core,Source-Specific,SHD_REL,NAPP,
+Case_B,core,Source-Specific,SHD_REL,4,E1
+Case_C,boundary,Source-Specific,SHD_REL,NAPP,
+Case_D,core,Source-Specific,SHD_REL,NR,
+Case_E,core,Source-Specific,SHD_REL,NAPP,
+Case_F,core,Source-Specific,SHD_REL,3,E2
+Case_G,core,Source-Specific,SHD_REL,4,E3
+Case_A,core,Source-Specific,SHD_HRS,0,
+Case_B,core,Source-Specific,SHD_HRS,NR,
+Case_C,boundary,Source-Specific,SHD_HRS,0,
+Case_D,core,Source-Specific,SHD_HRS,NR,
+Case_E,core,Source-Specific,SHD_HRS,0,
+Case_F,core,Source-Specific,SHD_HRS,2,
+Case_G,core,Source-Specific,SHD_HRS,NR,
+Case_A,core,Source-Specific,PEER_SIZE,UNC,
+Case_B,core,Source-Specific,PEER_SIZE,UNC,
+Case_C,boundary,Source-Specific,PEER_SIZE,UNC,
+Case_D,core,Source-Specific,PEER_SIZE,UNC,
+Case_E,core,Source-Specific,PEER_SIZE,NR,
+Case_F,core,Source-Specific,PEER_SIZE,UNC,
+Case_G,core,Source-Specific,PEER_SIZE,NR,
+Case_A,core,Source-Specific,PEER_DIV,NR,
+Case_B,core,Source-Specific,PEER_DIV,NR,
+Case_C,boundary,Source-Specific,PEER_DIV,UNC,
+Case_D,core,Source-Specific,PEER_DIV,2,E1
+Case_E,core,Source-Specific,PEER_DIV,NR,
+Case_F,core,Source-Specific,PEER_DIV,1,E2
+Case_G,core,Source-Specific,PEER_DIV,NR,
+Case_A,core,Source-Specific,PEER_STA,3,E3
+Case_B,core,Source-Specific,PEER_STA,3,E3
+Case_C,boundary,Source-Specific,PEER_STA,NR,
+Case_D,core,Source-Specific,PEER_STA,UNC,
+Case_E,core,Source-Specific,PEER_STA,NR,
+Case_F,core,Source-Specific,PEER_STA,NR,
+Case_G,core,Source-Specific,PEER_STA,NR,
+Case_A,core,Source-Specific,PEER_RECIP,2,E2
+Case_B,core,Source-Specific,PEER_RECIP,NR,
+Case_C,boundary,Source-Specific,PEER_RECIP,NR,
+Case_D,core,Source-Specific,PEER_RECIP,UNC,
+Case_E,core,Source-Specific,PEER_RECIP,NR,
+Case_F,core,Source-Specific,PEER_RECIP,NR,
+Case_G,core,Source-Specific,PEER_RECIP,NR,
+Case_A,core,Source-Specific,DIG_ACCESS,3,E2
+Case_B,core,Source-Specific,DIG_ACCESS,NR,
+Case_C,boundary,Source-Specific,DIG_ACCESS,4,E3
+Case_D,core,Source-Specific,DIG_ACCESS,4,E3
+Case_E,core,Source-Specific,DIG_ACCESS,4,E3
+Case_F,core,Source-Specific,DIG_ACCESS,NR,
+Case_G,core,Source-Specific,DIG_ACCESS,4,E3
+Case_A,core,ILL,ILL_INF,NR,
+Case_B,core,ILL,ILL_INF,NR,
+Case_C,boundary,ILL,ILL_INF,2,E1
+Case_D,core,ILL,ILL_INF,3,E3
+Case_E,core,ILL,ILL_INF,4,E3
+Case_F,core,ILL,ILL_INF,1,E3
+Case_G,core,ILL,ILL_INF,2,E3
+Case_A,core,ILL,ILL_PLN,1,E2
+Case_B,core,ILL,ILL_PLN,3,E3
+Case_C,boundary,ILL,ILL_PLN,2,E1
+Case_D,core,ILL,ILL_PLN,4,E3
+Case_E,core,ILL,ILL_PLN,3,E3
+Case_F,core,ILL,ILL_PLN,2,E3
+Case_G,core,ILL,ILL_PLN,3,E3
+Case_A,core,ILL,ILL_RES,NR,
+Case_B,core,ILL,ILL_RES,1,E1
+Case_C,boundary,ILL,ILL_RES,2,E2
+Case_D,core,ILL,ILL_RES,4,E3
+Case_E,core,ILL,ILL_RES,1,E1
+Case_F,core,ILL,ILL_RES,4,E3
+Case_G,core,ILL,ILL_RES,4,E3
+Case_A,core,ILL,ILL_TASK,2,E3
+Case_B,core,ILL,ILL_TASK,4,E3
+Case_C,boundary,ILL,ILL_TASK,3,E2
+Case_D,core,ILL,ILL_TASK,4,E3
+Case_E,core,ILL,ILL_TASK,4,E3
+Case_F,core,ILL,ILL_TASK,4,E3
+Case_G,core,ILL,ILL_TASK,4,E3
+Case_A,core,ILL,ILL_EMO,1,E1
+Case_B,core,ILL,ILL_EMO,2,E3
+Case_C,boundary,ILL,ILL_EMO,UNC,
+Case_D,core,ILL,ILL_EMO,UNC,
+Case_E,core,ILL,ILL_EMO,2,E1
+Case_F,core,ILL,ILL_EMO,3,E1
+Case_G,core,ILL,ILL_EMO,NR,
+Case_A,core,ILL,ILL_VER,2,E2
+Case_B,core,ILL,ILL_VER,2,E2
+Case_C,boundary,ILL,ILL_VER,4,E3
+Case_D,core,ILL,ILL_VER,NR,
+Case_E,core,ILL,ILL_VER,2,E2
+Case_F,core,ILL,ILL_VER,4,E3
+Case_G,core,ILL,ILL_VER,4,E3
