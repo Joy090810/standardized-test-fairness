@@ -25,3 +25,12 @@ All support heatmaps use the same color scale (0–4) and preserve NR and UNC la
 - [Case_E](figures/case_e_support_heatmap.png)
 - [Case_F](figures/case_f_support_heatmap.png)
 - [Case_G](figures/case_g_support_heatmap.png)
+## Information Support Across Cases
+
+![Information support across seven cases](figures/information_support_heatmap.png)
+
+This figure compares information support (INF) across seven cases. Support sources are DIG (digital/AI), FAM (family), PEER (peers), SCH (school), and SHD (shadow education).
+
+Codes are ordinal (0–4). Gray cells indicate NR (not reported) or UNC (unclear); neither is treated as 0. Case_C is a boundary case.
+
+School information support is coded at level 4 for Case_B and Case_F, and at level 0 for Case_E. This figure describes these cases only.
